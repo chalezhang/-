@@ -99,6 +99,11 @@ A：检查是否安装了所有依赖包，Python版本建议3.7及以上。
 开发语言：Python 3.7+
 核心库：PyQt5（图形化界面）、pygame（音频播放）、numpy（纯音生成）、pystray（系统托盘）、pillow（托盘图标绘制）
 
+<img width="462" height="472" alt="image" src="https://github.com/user-attachments/assets/e3679c80-03df-490f-9fd0-59acbcaa609e" />
+
+<img width="175" height="133" alt="image" src="https://github.com/user-attachments/assets/524c50d0-2bd8-4a99-bcbe-44cff80d080d" />
+
+
 # English Introduction
 
 ## I. Software Overview
